@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\CarLibrary\CarLibrary\CarLibrary.csproj" />
+    <ProjectReference Include="..\CarLibrary\CarLibrary.csproj" />
   </ItemGroup>
 
 
