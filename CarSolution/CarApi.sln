@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarApi", "CarApi\CarApi.csproj", "{7FC64164-3079-48E8-AB9B-693EEF3B7272}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarLibrary", "..\CarLibrary\CarLibrary\CarLibrary.csproj", "{E6CD2D0C-8B24-4F44-BAD6-676A7051B60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWcf", "CarWcf\CarWcf.csproj", "{CC925A96-19C5-4F86-B45F-16E768FAC904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC64164-3079-48E8-AB9B-693EEF3B7272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC64164-3079-48E8-AB9B-693EEF3B7272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC64164-3079-48E8-AB9B-693EEF3B7272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC64164-3079-48E8-AB9B-693EEF3B7272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CD2D0C-8B24-4F44-BAD6-676A7051B60A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CD2D0C-8B24-4F44-BAD6-676A7051B60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CD2D0C-8B24-4F44-BAD6-676A7051B60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CD2D0C-8B24-4F44-BAD6-676A7051B60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC925A96-19C5-4F86-B45F-16E768FAC904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC925A96-19C5-4F86-B45F-16E768FAC904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC925A96-19C5-4F86-B45F-16E768FAC904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC925A96-19C5-4F86-B45F-16E768FAC904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {257FD40E-D003-427F-B23F-2490BE78ABBB}
+	EndGlobalSection
+EndGlobal
